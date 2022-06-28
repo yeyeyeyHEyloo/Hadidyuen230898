@@ -6820,7 +6820,7 @@ end)
 
 addcmd('anomic',{'ano'},function(args, speaker)
 	local args = {
-    		[1] = game:GetService("Players").CBWX1,
+    		[1] = game:GetService("Players").bouncingBLB,
     		[2] = "49999"
 	}
 
