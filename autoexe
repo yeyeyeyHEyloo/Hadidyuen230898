@@ -6820,7 +6820,7 @@ end)
 
 addcmd('anomic',{'ano'},function(args, speaker)
 	local args = {
-    		[1] = game:GetService("Players").Sycellette,
+    		[1] = game:GetService("Players").desnuts45t,
     		[2] = "49999"
 	}
 
